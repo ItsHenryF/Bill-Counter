@@ -8,8 +8,8 @@ Add pip requirements by installing requirements.txt
 Process Runs Like This
 
 => Enter Type of Bill </br>
-=> Enter Number of Type of Bills
-=> Enter Deposit (D) or Withdraw (W)
-=> Print Menu Again (P)
-or
-=> Q to save and update CSV File
+=> Enter Number of Type of Bills </br>
+=> Enter Deposit (D) or Withdraw (W) </br>
+=> Print Menu Again (P) </br>
+or </br>
+=> Q to save and update CSV File </br>
