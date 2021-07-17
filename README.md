@@ -7,7 +7,7 @@ Add pip requirements by installing requirements.txt
 
 Process Runs Like This
 
-=> Enter Type of Bill
+=> Enter Type of Bill </br>
 => Enter Number of Type of Bills
 => Enter Deposit (D) or Withdraw (W)
 => Print Menu Again (P)
